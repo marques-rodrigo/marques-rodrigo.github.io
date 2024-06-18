@@ -1,19 +1,35 @@
 project:
   type: website
+  render:
+    - "index.qmd"
 
 website:
-  title: "marques-rodrigo.github.io"
+  title: "Rodrigo Marques"
+  search: false
   navbar:
+    pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
+      - href: assets/cv.pdf
+        text: CV
+      - text: News
+        href: /#news
+      - text: Publications
+        href: /#publications
+      - text: Teaching
+        href: /#teaching
+    right:
+      - text: "{{< fa film >}}"
+        href: https://letterboxd.com/rmarques2/
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rodrigo-marques2
+        target: _blank
+      - icon: github
+        href: https://github.com/marques-rodrigo
+        target: _blank
+format: 
   html:
-    theme: cosmo
+    theme: default
     css: styles.css
-    toc: true
-
-
-
+    # toc: true
+    # embed-resources: true
