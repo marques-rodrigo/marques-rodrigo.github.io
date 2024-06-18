@@ -1,7 +1,110 @@
 ---
-title: "marques-rodrigo.github.io"
+title: "Rodrigo Marques"
+subtitle: "
+    DCC@FCUP | LIACC
+
+
+    rodrigo [dot] marques [at] fc.up.pt
+    "
+image: assets/placeholder.jpg
+toc: false
+page-layout: full
+about: 
+  id: about-section
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - text: "{{< ai cv >}}"
+      href: assets/cv.pdf  
+    - icon: linkedin
+      href: https://www.linkedin.com/in/rodrigo-marques2
+    - icon: github
+      href: https://github.com/marques-rodrigo
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0003-2492-0197
 ---
 
-This is a Quarto website.
+::: {#about-section}
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am pursuing a PhD at the [Department of Computer Science](https://www.dcc.fc.up.pt/site/) at [University of Porto](https://up.pt) where I am advised by [Mário Florido](https://sigarra.up.pt/fcup/pt/func_geral.formview?p_codigo=238703).
+
+My research interests are centered around the design and implementation of programming languages. In particular, I am interested in the study of logic and semantics, as it can provide valuable insights for the design of better programming languages and type systems.
+
+Before my PhD, I obtained a MSc degree in Computer Science with a focus on Reliable Computation at the University of Porto.
+:::
+
+## News
+
+Aug 2024
+
+:   Attending [ISR 2024](http://cl-informatik.uibk.ac.at/events/isr-2024/) in Obergurgl
+
+Jun 2024
+
+:   Attended [OPLSS 2024](https://www.cs.uoregon.edu/research/summerschool/summer24/index.php) in Boston
+
+Dec 2023
+
+:   Defended my MSc dissertation
+
+## Publications
+
+Preprint
+
+:   **A Lazy Abstract Machine for a Tracing Interpreter**\
+    Pedro Vasconcelos, [Rodrigo Marques\
+    ]{.underline}Abstract arXiv
+
+2023
+
+:   **A Lazy Abstract Machine Based on a Pattern-Matching Calculus\
+    **Pedro Vasconcelos, [Rodrigo Marques\
+    ]{.underline}*Symposium on Implementation and Application of Functional Languages*[\
+    ]{.underline}Abstract arXiv
+
+2022
+
+:   **Towards Algebraic Subtyping for Extensible Records\
+    **[Rodrigo Marques]{.underline}, Mário Florido, Pedro Vasconcelos**\
+    **Presented at: *ML Workshop at the International Conference on Functional Programming*
+
+### Master's Dissertation
+
+2022
+
+:   **Subtyping: Study and Implementation**\
+    Abstract Link
+
+## Teaching
+
+### Lab instructor
+
+#### CC1008: Introduction to Programing
+
+*Fall 2023, 2024\
+*Introductory programming course for computer science students with Python.
+
+#### L.EIC003: Programming Fundamentals
+
+*Fall 2023\
+*Introductory programming course for informatics engineering students with Python.
+
+#### CC1005: Functional Programming
+
+*Spring 2024\
+*Introduction to functional programming with Haskell. Proving program properties using induction and equational reasoning.
+
+#### L.EIC009: Programming
+
+*Spring 2024\
+*Introduction to object-oriented programming with C++.
+
+```{=html}
+<!-- Fall 2024
+: Introduction to Programming
+
+Spring 2025
+: Theory of Computation -->
+```
