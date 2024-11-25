@@ -29,95 +29,84 @@ about:
 
 ## About
 
-I am pursuing a PhD at the [Department of Computer Science](https://www.dcc.fc.up.pt/site/) of the [University of Porto](https://up.pt) where I am advised by [Mário Florido](https://sigarra.up.pt/fcup/pt/func_geral.formview?p_codigo=238703).
+I am an Invited Assistant at the [Department of Computer Science](https://www.dcc.fc.up.pt/site/) of the [University of Porto](https://up.pt), and Collaborator at [LIACC](https://liacc.fe.up.pt/) working with [Mário Florido](https://sigarra.up.pt/fcup/pt/func_geral.formview?p_codigo=238703) and [Pedro Vasconcelos](https://sigarra.up.pt/fcup/pt/func_geral.FormView?P_CODIGO=203773).
+Before this, I obtained a MSc degree in Computer Science with a focus on Reliable Computation at the University of Porto.
 
-My research interests are centered around the design and implementation of programming languages. I am interested in the study of type systems, semantics, and logic.
-
-<!-- Before my PhD, I obtained a MSc degree in Computer Science with a focus on Reliable Computation at the University of Porto. -->
+My research interests are in the design and implementation of *programming languages*, focusing on *type systems* and *semantics*. I study how to make type systems more *precise*, in the sense that they better describe a program's *behaviour*.
 
 :::
 
 ## News
 
-Jul 2024
+Sep 2024 
 
-: [A Lazy Abstract Machine for a Tracing Interpreter](arxiv), a paper I'm a co-author of, was accepted for the Haskell Symposium at ICFP
-
-Jul 2024
-
-:   Will be attending the term-rewriting track at the [ISR 2024](http://cl-informatik.uibk.ac.at/events/isr-2024/) summer school in Obergurgl
+:    Attending the [ISR](http://cl-informatik.uibk.ac.at/events/isr-2024/) term-rewriting school in Obergurgl, [ICFP](https://icfp24.sigplan.org/) in Milano, and the [Proof Society](https://proofsociety2024.com/) school in Birmingham
 
 Jun 2024
 
-:   Attended [OPLSS 2024](https://www.cs.uoregon.edu/research/summerschool/summer24/index.php) in Boston
+:   Attending [OPLSS 2024](https://www.cs.uoregon.edu/research/summerschool/summer24/index.php) in Boston
 
 Dec 2023
 
 :   Defended my MSc dissertation
 
-## Publications
+## Papers 
 
 2024
 
-:   **A Lazy Abstract Machine for a Tracing Interpreter**\
+:   **Haskelite: A Tracing Interpreter Based on a Pattern-Matching Calculus**\
     Pedro Vasconcelos, [Rodrigo Marques]{.underline}\
-    *ACM SIGPLAN International Haskell Symposium*\
-    Abstract [Pre-print](https://arxiv.org/pdf/2407.11831)
+    *Proceedings of the 17th ACM SIGPLAN International Haskell Symposium*\
+    Abstract [doi](https://doi.org/10.1145/3677999.3678274)
 
 2023
 
 :   **A Lazy Abstract Machine Based on a Pattern-Matching Calculus**\
     Pedro Vasconcelos, [Rodrigo Marques]{.underline}\
-    *Symposium on Implementation and Application of Functional Languages*\
+    Presented at: *Symposium on Implementation and Application of Functional Languages*\
     Abstract 
 
 2022
 
 :   **Towards Algebraic Subtyping for Extensible Records**\
-    [Rodrigo Marques]{.underline}, Mário Florido, Pedro Vasconcelos**\
-    **Presented at: *ML Workshop at the International Conference on Functional Programming*\
+    [Rodrigo Marques]{.underline}, Mário Florido, Pedro Vasconcelos\
+    Presented at: *ML Workshop at the International Conference on Functional Programming*\
     Abstract [arXiv](https://arxiv.org/abs/2407.06747)
 
 ### Master's Dissertation
 
-2022
+2023
 
 :   **Subtyping: Study and Implementation**\
     University of Porto, Portugal. Advised by Mário Florido and Pedro Vasconcelos\
-    Abstract [Link](https://repositorio-aberto.up.pt/bitstream/10216/156497/2/655655.pdf)
+    Abstract [link](https://hdl.handle.net/10216/156497)
 
 ## Teaching
 
 ### Lab instructor
 
-#### CC1008: Introduction to Programing
+#### L.EIC024: Functional and Logic Programming
 
-- [Fall 2023](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529847)\
-- Introductory programming course with Python.
-
-#### L.EIC003: Programming Fundamentals
-
-- [Fall 2023](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520307)\
-- Introductory programming course with Python.
+- [Fall 2024](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541889)\
+- Final year class about declarative programming languages
 
 #### CC1005: Functional Programming
 
 - [Spring 2024](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529850)\
-- Introduction to functional programming with Haskell. Proving program properties using induction and equational reasoning.
+- Introduction to functional programming and formal reasoning with Haskell
 
 #### L.EIC009: Programming
 
 - [Spring 2024](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520314)\
-- Introduction to object-oriented programming with C++.
+- Introduction to imperative and object-oriented programming with C++
 
-<!-- 
-#### L.EIC024: Functional and Logic Programming
 
-- [Fall 2024](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541889)\
-- Introduction declarative programming paradigms and formally reasoning about programs in Haskell and Porlog. 
+#### CC1008: Introduction to Programing
 
-#### L.EIC010: Theory of Computation
+- [Fall 2023](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=529847)\
+- Introductory programming course with Python
 
-- [Spring 2025](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541875)
-- Formal languages, automata, and Turing machines.
--->
+#### L.EIC003: Programming Fundamentals
+
+- [Fall 2023](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520307)\
+- Introductory programming course with Python
