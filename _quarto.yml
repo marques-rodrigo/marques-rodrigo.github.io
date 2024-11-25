@@ -13,8 +13,8 @@ website:
         text: CV
       - text: News
         href: /#news
-      - text: Publications
-        href: /#publications
+      - text: Papers
+        href: /#papers
       - text: Teaching
         href: /#teaching
     right:
